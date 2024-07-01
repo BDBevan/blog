@@ -1,5 +1,13 @@
 // assets/js/blog.js
 
+document.getElementById('modeToggle').addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+});
+
+document.getElementById('backButton').addEventListener('click', function() {
+    window.location.href = 'index.html';
+});
+
 document.addEventListener('DOMContentLoaded', (event) => {
     const blogPostsDiv = document.getElementById('blogPosts');
     const clearButton = document.getElementById('clearBlogPosts');
