@@ -25,7 +25,7 @@ header h1 {
 
 main {
     width: 100%;
-    padding-top: 80px; /* Adjust this value to create space for the fixed header */
+    padding-top: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
