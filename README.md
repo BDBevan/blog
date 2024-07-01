@@ -1,12 +1,12 @@
 
 # My personal blog Challenge
-This initial personal blog website. It allows users to create blog posts which are stored in local storage and displayed on a separate page.
-Please see a list of features and links to both the published page and repo below. 
+This is my initial personal blog website. It allows users to create blog posts which are stored in local storage and displayed on a separate page.
+Please see a list of features, screenshots and links to both the published page and repo below. 
 
 
 ## Features
 
-- Aloows users to submit blog posts with username, title, and content.
+- Alows users to submit blog posts with username, title, and content.
 - Posts are saved to local storage.
 - Blog page has a light mode/dark mode toggle button.
 - There is a back button for the user to return to the form page.
